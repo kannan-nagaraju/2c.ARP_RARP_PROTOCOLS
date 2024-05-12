@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS:
+## NAME:N.KANNAN
+## REG NO:212223230097
 ## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -44,7 +46,11 @@ while True:
 ```
 
 ## OUPUT - ARP:
-![image](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/4913f499-eaa8-4692-b3e9-c153a6fd7dd9)
+## CLIENT:
+![Screenshot 2024-05-12 200800](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/9ca6235b-b081-412d-a0bc-34c6d72fb802)
+
+## SERVER:
+![Screenshot 2024-05-12 200840](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/2269aa41-6e9d-4a80-81e7-aed7207b2f79)
 
 ## PROGRAM - RARP:
 ```
@@ -73,8 +79,12 @@ while True:
 ```
 
 ## OUPUT -RARP:
-![image](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/8cb93dad-77f6-490c-b3a4-43703f6b69d5)
+## CLIENT:
+![Screenshot 2024-05-12 200933](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/fbde118e-7a59-41e4-987d-e4bff3f8128a)
 
-## RESULT
+## SERVER:
+![Screenshot 2024-05-12 201014](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/8fdac021-5db1-4cf2-a3d0-f649c0ac410d)
+
+## RESULT:
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
