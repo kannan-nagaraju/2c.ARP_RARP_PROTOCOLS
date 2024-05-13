@@ -86,5 +86,5 @@ while True:
 ![Screenshot 2024-05-12 201014](https://github.com/kannan-nagaraju/2c.ARP_RARP_PROTOCOLS/assets/145742755/8fdac021-5db1-4cf2-a3d0-f649c0ac410d)
 
 ## RESULT:
-Thus, the python program for simulating ARP protocols using TCP was successfully 
+Thus, the python program for simulating ARP and RARP protocols using TCP was successfully 
 executed.
